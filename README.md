@@ -3,7 +3,7 @@
 **If you want to see how to create a special slider, please check out my code ♥️👀**
 
 
-- 🔗 [Demo Project]()
+- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Special_Slider/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
