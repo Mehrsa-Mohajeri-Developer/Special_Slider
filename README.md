@@ -2,6 +2,7 @@
 
 **If you want to see how to create a special slider, please check out my code ♥️👀**
 
+https://github.com/Mehrsa-Mohajeri-Developer/Special_Slider/assets/145048780/0e6285a4-2022-4c80-8a5b-1d06178b1266
 
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Special_Slider/)
   
